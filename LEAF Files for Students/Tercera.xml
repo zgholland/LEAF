@@ -44,10 +44,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105150756162",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154843987",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:07:56.162Z",
-	"dcterms:modified": "2024-11-05T20:48:43.987Z",
+	"dcterms:created": "2024-11-05T20:48:43.987Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -58,10 +57,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105150756162#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154843987#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -72,7 +71,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105150756162#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154843987#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/placeName"
 		}
@@ -125,10 +124,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105151301340",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105151336703",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:13:01.340Z",
-	"dcterms:modified": "2024-11-05T20:13:36.703Z",
+	"dcterms:created": "2024-11-05T20:13:36.703Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -139,10 +137,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105151301340#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105151336703#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -153,7 +151,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105151301340#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105151336703#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/rs"
 		}
@@ -205,10 +203,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105151327019",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105151327019",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:13:27.019Z",
-	"dcterms:modified": "2024-11-05T20:13:27.019Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -219,10 +216,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105151327019#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105151327019#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -233,7 +230,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105151327019#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105151327019#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/rs[2]"
 		}
@@ -284,10 +281,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105151355252",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105154828491",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:13:55.252Z",
-	"dcterms:modified": "2024-11-05T20:48:28.491Z",
+	"dcterms:created": "2024-11-05T20:48:28.491Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -298,10 +294,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105151355252#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105154828491#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -312,7 +308,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105151355252#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105154828491#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/rs[3]"
 		}
@@ -364,10 +360,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105151804832",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105151804832",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:18:04.832Z",
-	"dcterms:modified": "2024-11-05T20:18:04.832Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -378,10 +373,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105151804832#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105151804832#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -392,7 +387,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105151804832#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105151804832#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/rs"
 		}
@@ -443,10 +438,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105152318010",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105154817980",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:23:18.010Z",
-	"dcterms:modified": "2024-11-05T20:48:17.980Z",
+	"dcterms:created": "2024-11-05T20:48:17.980Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -457,10 +451,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105152318010#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105154817980#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -471,7 +465,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105152318010#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105154817980#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[7]/rs"
 		}
@@ -523,10 +517,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?note_annotation_20241105152354824",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?note_annotation_20241105152354824",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:23:54.824Z",
-	"dcterms:modified": "2024-11-05T20:23:54.824Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -537,10 +530,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?note_annotation_20241105152354824#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?note_annotation_20241105152354824#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -551,7 +544,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?note_annotation_20241105152354824#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?note_annotation_20241105152354824#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[7]/note"
 		}
@@ -602,10 +595,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105152444822",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154750588",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:24:44.822Z",
-	"dcterms:modified": "2024-11-05T20:47:50.588Z",
+	"dcterms:created": "2024-11-05T20:47:50.588Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -616,10 +608,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105152444822#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154750588#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -630,7 +622,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105152444822#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154750588#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[8]/placeName"
 		}
@@ -681,10 +673,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105152508274",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154718558",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:25:08.274Z",
-	"dcterms:modified": "2024-11-05T20:47:18.558Z",
+	"dcterms:created": "2024-11-05T20:47:18.558Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -695,10 +686,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105152508274#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154718558#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -709,7 +700,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105152508274#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154718558#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[9]/placeName"
 		}
@@ -762,10 +753,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?person_annotation_20241105152529915",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?person_annotation_20241105152529915",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:25:29.915Z",
-	"dcterms:modified": "2024-11-05T20:25:29.915Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -776,10 +766,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?person_annotation_20241105152529915#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?person_annotation_20241105152529915#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -790,7 +780,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?person_annotation_20241105152529915#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?person_annotation_20241105152529915#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[9]/persName"
 		}
@@ -842,10 +832,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105152627973",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154711763",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:26:27.973Z",
-	"dcterms:modified": "2024-11-05T20:47:11.763Z",
+	"dcterms:created": "2024-11-05T20:47:11.763Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -856,10 +845,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105152627973#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154711763#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -870,7 +859,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105152627973#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154711763#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[10]/placeName"
 		}
@@ -921,10 +910,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105153214895",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154653691",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:32:14.895Z",
-	"dcterms:modified": "2024-11-05T20:46:53.691Z",
+	"dcterms:created": "2024-11-05T20:46:53.691Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -935,10 +923,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105153214895#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154653691#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -949,7 +937,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105153214895#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154653691#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[11]/placeName[2]"
 		}
@@ -1002,10 +990,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105153344309",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105155742821",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:33:44.309Z",
-	"dcterms:modified": "2024-11-05T20:57:42.821Z",
+	"dcterms:created": "2024-11-05T20:57:42.821Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -1016,10 +1003,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105153344309#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105155742821#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1030,7 +1017,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105153344309#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105155742821#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[2]"
 		}
@@ -1083,10 +1070,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105153414038",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154659003",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:34:14.038Z",
-	"dcterms:modified": "2024-11-05T20:46:59.003Z",
+	"dcterms:created": "2024-11-05T20:46:59.003Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -1097,10 +1083,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105153414038#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154659003#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1111,7 +1097,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105153414038#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154659003#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[11]/placeName"
 		}
@@ -1162,10 +1148,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105153849415",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154631093",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:38:49.415Z",
-	"dcterms:modified": "2024-11-05T20:46:31.093Z",
+	"dcterms:created": "2024-11-05T20:46:31.093Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -1176,10 +1161,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105153849415#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154631093#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1190,7 +1175,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105153849415#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154631093#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[12]/placeName[2]"
 		}
@@ -1243,10 +1228,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105153937260",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154648420",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:39:37.260Z",
-	"dcterms:modified": "2024-11-05T20:46:48.420Z",
+	"dcterms:created": "2024-11-05T20:46:48.420Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -1257,10 +1241,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105153937260#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154648420#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1271,7 +1255,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105153937260#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154648420#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[11]/placeName[3]"
 		}
@@ -1322,10 +1306,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154007260",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154635959",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:40:07.260Z",
-	"dcterms:modified": "2024-11-05T20:46:35.959Z",
+	"dcterms:created": "2024-11-05T20:46:35.959Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -1336,10 +1319,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154007260#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154635959#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1350,7 +1333,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154007260#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154635959#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[12]/placeName"
 		}
@@ -1403,10 +1386,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154042274",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154640071",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:40:42.274Z",
-	"dcterms:modified": "2024-11-05T20:46:40.071Z",
+	"dcterms:created": "2024-11-05T20:46:40.071Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -1417,10 +1399,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154042274#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154640071#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1431,7 +1413,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154042274#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154640071#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[12]/placeName[3]"
 		}
@@ -1482,10 +1464,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154211850",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154643411",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:42:11.850Z",
-	"dcterms:modified": "2024-11-05T20:46:43.411Z",
+	"dcterms:created": "2024-11-05T20:46:43.411Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -1496,10 +1477,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154211850#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154643411#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1510,7 +1491,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154211850#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154643411#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[12]/placeName[4]"
 		}
@@ -1563,10 +1544,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154303024",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154601724",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:43:03.024Z",
-	"dcterms:modified": "2024-11-05T20:46:01.724Z",
+	"dcterms:created": "2024-11-05T20:46:01.724Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -1577,10 +1557,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154303024#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154601724#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1591,7 +1571,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154303024#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154601724#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[12]/placeName[5]"
 		}
@@ -1644,10 +1624,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154429662",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154832890",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:44:29.662Z",
-	"dcterms:modified": "2024-11-05T20:48:32.890Z",
+	"dcterms:created": "2024-11-05T20:48:32.890Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -1658,10 +1637,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154429662#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154832890#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1672,7 +1651,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154429662#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154832890#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/placeName"
 		}
@@ -1725,10 +1704,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154449724",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154706641",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:44:49.724Z",
-	"dcterms:modified": "2024-11-05T20:47:06.641Z",
+	"dcterms:created": "2024-11-05T20:47:06.641Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -1739,10 +1717,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154449724#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154706641#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1753,7 +1731,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154449724#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154706641#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[10]/placeName[2]"
 		}
@@ -1806,10 +1784,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154514194",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154823133",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:45:14.194Z",
-	"dcterms:modified": "2024-11-05T20:48:23.133Z",
+	"dcterms:created": "2024-11-05T20:48:23.133Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -1820,10 +1797,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154514194#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154823133#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1834,7 +1811,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154514194#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154823133#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[6]/placeName"
 		}
@@ -1887,10 +1864,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154554379",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154554379",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:45:54.379Z",
-	"dcterms:modified": "2024-11-05T20:45:54.379Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -1901,10 +1877,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154554379#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154554379#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1915,7 +1891,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154554379#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154554379#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[12]/placeName[6]"
 		}
@@ -1966,10 +1942,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154907663",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154907663",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:49:07.663Z",
-	"dcterms:modified": "2024-11-05T20:49:07.663Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -1980,10 +1955,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154907663#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154907663#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1994,7 +1969,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105154907663#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105154907663#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName"
 		}
@@ -2045,10 +2020,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105154947894",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105154947894",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:49:47.894Z",
-	"dcterms:modified": "2024-11-05T20:49:47.894Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -2059,10 +2033,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105154947894#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105154947894#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2073,7 +2047,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?rs_annotation_20241105154947894#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?rs_annotation_20241105154947894#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[9]/rs"
 		}
@@ -2124,10 +2098,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?note_annotation_20241105155056085",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?note_annotation_20241105155056085",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:50:56.085Z",
-	"dcterms:modified": "2024-11-05T20:50:56.085Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -2138,10 +2111,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?note_annotation_20241105155056085#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?note_annotation_20241105155056085#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2152,7 +2125,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?note_annotation_20241105155056085#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?note_annotation_20241105155056085#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[8]/note"
 		}
@@ -2203,10 +2176,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105155731636",
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105155731636",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:57:31.636Z",
-	"dcterms:modified": "2024-11-05T20:57:31.636Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/zgholland",
 		"@type": [
@@ -2217,10 +2189,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105155731636#Target",
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105155731636#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2231,7 +2203,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?place_annotation_20241105155731636#Selector",
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?place_annotation_20241105155731636#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[9]/placeName[2]"
 		}
@@ -2252,6 +2224,86 @@
 	"cwrc:hasPrecision": "cwrc:lowCertainty"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?person_annotation_20241105160533666",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-05T21:05:33.666Z",
+	"dcterms:modified": "2024-11-05T21:05:33.666Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/zgholland",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Zoe Holland"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?person_annotation_20241105160533666#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/Tercera.xml?person_annotation_20241105160533666#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[15]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q232916",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -2260,7 +2312,7 @@
 				<head><placeName key="Terceira Island" ref="http://www.wikidata.org/entity/Q215074" cert="high">Tercera<precision match="@ref" precision="high"/></placeName></head>
 				<p>This Ile is called <placeName key="Terceira Island" ref="http://www.wikidata.org/entity/Q215074">Tercera</placeName>, becauſe that of the Iles called <placeName key="Azores archipelago" ref="http://www.wikidata.org/entity/Q4058447" cert="high">Acores<precision match="@ref" precision="high"/></placeName>, it is the third</p><p>as the [ly] in order, to ſuch as come out of <placeName key="Spain" ref="http://www.wikidata.org/entity/Q29" cert="high">Spaine<precision match="@ref" precision="high"/></placeName> to ſail weſtward. It is</p><p>plentifull of <rs key="maize" ref="http://www.wikidata.org/entity/Q11575" cert="medium">corn</rs> and <rs key="fruit" ref="http://www.wikidata.org/entity/Q3314483">fruit</rs>, and not without <rs key="wine" ref="http://www.wikidata.org/entity/Q282" cert="high">wyne</rs>.</p><p>Madder which diers vſe for the dying of the <rs key="cloth" ref="http://www.wikidata.org/entity/Q5849500">cloth</rs> red; doth yield great comoditie</p><p>to the inhabitants of this Ile, for that it growth heere aboundantly.</p><p>.The Oxen of this Ile excede in fairneſſe &amp; largeneſſe all others in <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46" cert="high">Europe<precision match="@ref" precision="high"/></placeName>.</p><p><rs key="cedar tree" ref="http://www.wikidata.org/entity/Q59835134" cert="high">Ceder</rs> growth here in ſuch aboundance that it ferueth for fuel<note type="annotation">Cedar Trees were used as fuel for fires</note>.</p><p>The chief towne of this Ile is called <placeName key="Angra do Heroísmo" ref="http://www.wikidata.org/entity/Q193677">Angra</placeName> which hath a [promontorie<note type="researchNote">promontory- a high point of land or rock projecting into a body of water</note>] where on</p><p>lieth a ſtrong forte called <placeName key="Brazil" ref="http://www.wikidata.org/entity/Q155" cert="high">Brazil<precision match="@ref" precision="high"/></placeName>.
 The <persName key="Spaniards" ref="http://dbpedia.org/resource/Spaniards" cert="high" type="real">Spagniards</persName> do alſo call this Ile [<placeName key="Azores archipelago" ref="http://www.wikidata.org/entity/Q4058447" cert="medium">Iſola del buen Teſu<precision match="@ref" precision="low"/></placeName>]. The <rs key="ship" ref="http://www.wikidata.org/entity/Q11446">ſhips</rs> coming from
-</p><p>the <placeName key="West Indies" ref="http://www.wikidata.org/entity/Q669037">weſt Indies</placeName> are accuſtomed heere to take harbor in their retourne to <placeName key="Spain" ref="http://www.wikidata.org/entity/Q29" cert="high">Spaine<precision match="@ref" precision="high"/></placeName>.</p><p>Of theſe Iles of <placeName key="Azores archipelago" ref="http://www.wikidata.org/entity/Q4058447">Acores</placeName> there are ſeauen in number, to wit <placeName key="Terceira Island" ref="http://www.wikidata.org/entity/Q215074" cert="high">Tercera<precision match="@ref" precision="high"/></placeName>, [<placeName key="São Miguel Island" ref="http://www.wikidata.org/entity/Q209036">S.Migbel</placeName>,]</p><p><placeName key="Santa Maria Island" ref="http://www.wikidata.org/entity/Q217262" cert="high">S.Marie<precision match="@ref" precision="high"/></placeName>, <placeName key="São Jorge Island" ref="http://www.wikidata.org/entity/Q743362" cert="high">S. George<precision match="@ref" precision="high"/></placeName>, <placeName key="Graciosa Island" ref="http://www.wikidata.org/entity/Q592315">Gratioſa</placeName>, <placeName key="Pico Island" ref="http://www.wikidata.org/entity/Q210811" cert="high">Pico<precision match="@ref" precision="high"/></placeName>, and [<placeName key="Faial Island" ref="http://www.wikidata.org/entity/Q657187" cert="high">Fayal<precision match="@ref" precision="high"/></placeName>] but the chiefeſt of name is <placeName key="Terceira Island" ref="http://www.wikidata.org/entity/Q215074">Tercera</placeName>.</p><p/><p/><p>Ortelius, Abraham, 1527-1598. An epitome of Ortelius his Theater of the vvorld, vvherein the principal regions of the earth are descrived in smalle mappes. VVith a brief declaration annexed to ech mappe. And donne in more exact manner, then lyke declarations in Latin, French, or other languages. It is also amplyfied with new mappes wanting in the Latin editions. Antwerp: Iohn Norton, 1601. STC 18857. ProQuest, https://www.proquest.com/books/epitome-ortelius-his-theater-vvorld-vvherein/docview/2240904399/se-2.</p><p/><p/></div>
+</p><p>the <placeName key="West Indies" ref="http://www.wikidata.org/entity/Q669037">weſt Indies</placeName> are accuſtomed heere to take harbor in their retourne to <placeName key="Spain" ref="http://www.wikidata.org/entity/Q29" cert="high">Spaine<precision match="@ref" precision="high"/></placeName>.</p><p>Of theſe Iles of <placeName key="Azores archipelago" ref="http://www.wikidata.org/entity/Q4058447">Acores</placeName> there are ſeauen in number, to wit <placeName key="Terceira Island" ref="http://www.wikidata.org/entity/Q215074" cert="high">Tercera<precision match="@ref" precision="high"/></placeName>, [<placeName key="São Miguel Island" ref="http://www.wikidata.org/entity/Q209036">S.Migbel</placeName>,]</p><p><placeName key="Santa Maria Island" ref="http://www.wikidata.org/entity/Q217262" cert="high">S.Marie<precision match="@ref" precision="high"/></placeName>, <placeName key="São Jorge Island" ref="http://www.wikidata.org/entity/Q743362" cert="high">S. George<precision match="@ref" precision="high"/></placeName>, <placeName key="Graciosa Island" ref="http://www.wikidata.org/entity/Q592315">Gratioſa</placeName>, <placeName key="Pico Island" ref="http://www.wikidata.org/entity/Q210811" cert="high">Pico<precision match="@ref" precision="high"/></placeName>, and [<placeName key="Faial Island" ref="http://www.wikidata.org/entity/Q657187" cert="high">Fayal<precision match="@ref" precision="high"/></placeName>] but the chiefeſt of name is <placeName key="Terceira Island" ref="http://www.wikidata.org/entity/Q215074">Tercera</placeName>.</p><p/><p/><p><persName key="Abraham Ortelius" ref="http://www.wikidata.org/entity/Q232916" cert="high" type="real">Ortelius, Abraham</persName>, 1527-1598. An epitome of Ortelius his Theater of the vvorld, vvherein the principal regions of the earth are descrived in smalle mappes. VVith a brief declaration annexed to ech mappe. And donne in more exact manner, then lyke declarations in Latin, French, or other languages. It is also amplyfied with new mappes wanting in the Latin editions. Antwerp: Iohn Norton, 1601. STC 18857. ProQuest, https://www.proquest.com/books/epitome-ortelius-his-theater-vvorld-vvherein/docview/2240904399/se-2.</p><p/><p/></div>
 		</body>
 	</text>
 </TEI>
