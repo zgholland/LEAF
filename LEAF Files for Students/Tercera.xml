@@ -892,6 +892,86 @@
 	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?person_annotation_20241105152529915",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-05T20:25:29.915Z",
+	"dcterms:modified": "2024-11-05T20:25:29.915Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/zgholland",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Zoe Holland"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?person_annotation_20241105152529915#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/zgholland/LEAF/main/LEAF%20Files%20for%20Students/13-Tercera.xml?person_annotation_20241105152529915#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[9]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Spaniards",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -899,7 +979,7 @@
 			<div>
 				<head><placeName key="Terceira Island" ref="http://www.wikidata.org/entity/Q215074" cert="medium">Tercera<precision match="@ref" precision="medium"/></placeName></head>
 				<p>This Ile is called Tercera, becauſe that of the Iles called <placeName key="Açores, Arquipélago dos" ref="http://vocab.getty.edu/tgn/7745096" cert="medium">Acores<precision match="@ref" precision="medium"/></placeName>, it is the third</p><p>as the [ly] in order, to ſuch as come out of <placeName key="Spain" ref="http://www.wikidata.org/entity/Q29" cert="high">Spaine<precision match="@ref" precision="high"/></placeName> to ſail weſtward. It is</p><p>plentifull of <rs key="maize" ref="http://www.wikidata.org/entity/Q11575" cert="medium">corn</rs> and <rs key="fruit" ref="http://www.wikidata.org/entity/Q3314483">fruit</rs>, and not without <rs key="wine" ref="http://www.wikidata.org/entity/Q282" cert="high">wyne</rs>.</p><p>Madder which diers vſe for the dying of the <rs key="cloth" ref="http://www.wikidata.org/entity/Q5849500">cloth</rs> red; doth yield great comoditie</p><p>to the inhabitants of this Ile, for that it growth heere aboundantly.</p><p>.The Oxen of this Ile excede in fairneſſe [and] largeneſſe all others in Europe.</p><p><rs key="cedar tree" ref="http://www.wikidata.org/entity/Q59835134" cert="high">Ceder</rs> growth here in ſuch aboundance that it ferueth for fuel<note type="annotation">Cedar Trees were used as fuel for fires</note>.</p><p>The chief towne of this Ile is called <placeName key="Angra do Heroísmo" ref="http://www.wikidata.org/entity/Q193677">Angra</placeName> which hath a [promontorie] where on</p><p>lieth a ſtrong forte called <placeName key="Brazil" ref="http://www.wikidata.org/entity/Q155" cert="high">Brazil<precision match="@ref" precision="high"/></placeName>.
-The Spagniards do alſo call this Ile [Iſola del buen Teſu]. The ſhips coming from
+The <persName key="Spaniards" ref="http://dbpedia.org/resource/Spaniards" cert="high" type="real">Spagniards</persName> do alſo call this Ile [Iſola del buen Teſu]. The ſhips coming from
 </p><p>the weſt Indies are accuſtomed heere to take harbor in their retourne to Spaine.</p><p>Of theſe Iles of Acores there are ſeauen in number, to wit Tercera, [S.Migbel,]</p><p>S.Marie, S. George, Gratioſa, Pico, and [Fayal] but the chiefeſt of name is Tercera.
 </p></div>
 		</body>
